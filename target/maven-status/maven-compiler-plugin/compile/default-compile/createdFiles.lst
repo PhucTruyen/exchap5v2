@@ -1,0 +1,5 @@
+murach\business\User.class
+murach\email\EmailListServlet.class
+murach\email\TestServlet.class
+com\mycompany\exchapter5_2\JakartaRestConfiguration.class
+com\mycompany\exchapter5_2\resources\JakartaEE10Resource.class
